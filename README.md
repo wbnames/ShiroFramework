@@ -2,7 +2,7 @@
 
 将Shiro框架整合到新的web项目中很简单，就是在web项目中导入Shiro的相关jar包以及整合jar包即可完成整合(是不是很简单...哈哈就是这么简单)。难的就是整合了Shiro框架后的web项目该如何进行开发，关于这一点，我将在下方通过一个demo演示用户的登录与退出及登录后的权限管理带你入门加入了Shiro框架后的web项目开发。
 
-博客上也放了详细解讲，[点击这里前往我的博客](http://codingxiaxw.cn/2016/11/23/50-Shiro-Integration/)
+
 
 **写在前边的话:**我在github上已经放了一个整合了Spring+SpringMVC+Mybatis的web项目(就是关于商品的增、删、改、查操作)，接下来我要讲解的就是如何在这个项目中整合进我的Shiro框架，整合Shiro框架前的项目源码[请点击这里](https://github.com/codingXiaxw/ssm2)前往我的github，并讲解了整合了Shiro框架后的web项目该如何进行开发，整合了Shiro框架后的完整源码[请点击这里](https://github.com/codingXiaxw/shiro)前往我的github。  
 
@@ -966,5 +966,5 @@ else if("randomCodeError".equals(exceptionClassName)){
 
 - [Weibo@codingXiaxw](http://weibo.com/u/5023661572?from=hissimilar_home&refer_flag=1005050003_)
 
-- [Zhihu@codingXiaxw](http://www.zhihu.com/people/e9f78fa34b8002652811ac348da3f671)  
+- [Zhihu@codingXiaxw](http://www.zhihu.com/people/e9f78fa34b8002652811ac348da3f671)
 - [Github@codingXiaxw](https://github.com/codingXiaxw)
